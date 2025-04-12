@@ -29,7 +29,7 @@
     "https://raw.githubusercontent.com/Mecozz/Menu/main/YFriesOR.png"
   ],
   "left_items": [
-    {"name": "CHEESE STEAK", "lg_price": "13.00", "reg_price": "10.50"},
+    {"name": "CHEESE STEAK", "lg_price": "13.00", "reg_price": "11.00"},
     {"name": "PEPPER STEAK", "lg_price": "13.00", "reg_price": "11.00"},
     {"name": "ONION STEAK", "lg_price": "13.00", "reg_price": "11.00"},
     {"name": "MUSHROOM STEAK", "lg_price": "13.00", "reg_price": "11.00"},
@@ -41,7 +41,7 @@
   ],
   "middle_items": [
     {"name": "TOSSED SALAD", "price": "9.00"},
-    {"name": "ANTIPASTO SALAD", "price": "12.00"},
+    {"name": "ANTIPASTO SALAD", "price": "13.00"},
     {"name": "GREEK SALAD", "price": "11.00"},
     {"name": "CHEF'S SALAD", "price": "11.00"},
     {"name": "TUNA SALAD", "price": "11.00"},
@@ -49,7 +49,7 @@
     {"name": "CHICKEN SALAD", "price": "11.00"},
     {"name": "BUFFALO CHICKEN SALAD", "price": "11.00"},
     {"name": "GRILLED CHICKEN SALAD", "price": "11.00"},
-    {"name": "LAMB OR STEAK SALAD", "price": "12.00"}
+    {"name": "LAMB OR STEAK SALAD", "price": "13.00"}
   ],
   "right_items": [
     {"name": "BAKLAVA", "lg_price": "3.75", "sm_price": ""},
